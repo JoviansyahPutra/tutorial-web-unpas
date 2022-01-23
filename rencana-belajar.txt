@@ -1,5 +1,9 @@
 RENCANA BELAJAR JOVI
 
-1. Paham GIT
-2. Belajar laravel
-3. Pendalaman Leaflet
+1. Paham GIT & GITHUB
+  *Unpas
+  *Olah repo sendiri
+2. Belajar framework PHP
+  *Laravel
+3. Pendalaman Framework
+  *TailwindCSS
