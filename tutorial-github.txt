@@ -1,6 +1,8 @@
 Resolusi Jovi 
 
 1. ingin konsisten belajar programming 2 jam per hari
+*Laravel
+*Leaflet 
 2. ingin mendapatkan penghasilan sembari meniti karir programming
 3. memiliki circle produktif
 4. Membuat portofolio untuk CV

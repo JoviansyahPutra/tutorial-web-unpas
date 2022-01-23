@@ -1,0 +1,5 @@
+RENCANA BELAJAR JOVI
+
+1. Paham GIT
+2. Belajar laravel
+3. Pendalaman Leaflet
