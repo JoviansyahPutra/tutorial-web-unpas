@@ -1,5 +1,9 @@
 RENCANA BELAJAR JOVI
 
 1. Paham GIT
-2. Belajar laravel
-3. Pendalaman Leaflet
+2. Belajar framework php
+  *Code Igniter
+  *Laravel
+3. Pendalaman Javascript
+  *Fundamental
+  *Tutorial Unpas
